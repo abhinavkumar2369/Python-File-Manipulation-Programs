@@ -1,7 +1,6 @@
-import os
 
 # Open the file
-file = open("example.txt", "r")
+file = open("01_example.txt", "r")
 
 
 
